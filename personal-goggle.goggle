@@ -18,6 +18,10 @@ $discard,site=wikipedia.org
 ! Amazon
 $discard,site= amazon.com
 
+! news custom
+$discard,site=natepickens.com
+
+
 $discard,site=investor.pinterestinc.com
 $discard,site=pinterest.at
 $discard,site=pinterest.ca
