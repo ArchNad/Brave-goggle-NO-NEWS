@@ -11,6 +11,11 @@ $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=twitter.com
 
+! Wikipedia
+$site=wikiless.org,boost=5
+$discard,site=wikipedia.org
+
+
 $discard,site=investor.pinterestinc.com
 $discard,site=pinterest.at
 $discard,site=pinterest.ca
