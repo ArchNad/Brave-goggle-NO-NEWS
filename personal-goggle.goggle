@@ -24,6 +24,32 @@ $discard,site=natepickens.com
 ! Map
 $discard,site=maps.google.com
 
+! more news blocked
+$discard,site=alternet.org
+$discard,site=vox.com
+$discard,site=theblaze.com
+$discard,site=thepostmillennial.com
+$discard,site=theblaze.com
+$discard,site=washingtontimes.com
+$discard,site=thefederalist.com
+$discard,site=slate.com
+$discard,site=salon.com
+$discard,site=breitbart.com
+$discard,site=americanthinker.com
+$discard,site=bongino.com
+$discard,site=nypost.com
+$discard,site=dailynews.com
+$discard,site=dailykos.com
+$discard,site=crooksandliars.com
+$discard,site=democracynow.org
+$discard,site=talkleft.com
+$discard,site=hotair.com
+$discard,site=westernjournal.com
+$discard,site=thegatewaypundit.com
+$discard,site=freebeacon.com
+$discard,site=dailycaller.com
+
+! pinterest
 $discard,site=investor.pinterestinc.com
 $discard,site=pinterest.at
 $discard,site=pinterest.ca
