@@ -16,7 +16,7 @@ $site=wikiless.org,boost=5
 $discard,site=wikipedia.org
 
 ! Amazon
-$discard,site= amazon.com
+$discard,site=amazon.com
 
 ! news custom
 $discard,site=natepickens.com
