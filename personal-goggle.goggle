@@ -1,7 +1,7 @@
-! name: Decentralized social platforms
+! name: NO-NEWS
 ! description: Boosts content from decentralized, PP and/or blockchain based social media platforms.
 ! public: true
-! author: watchthemind
+! author: ArchNad
 
 $site=odysee.com,boost=5
 
