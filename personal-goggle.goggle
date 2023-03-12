@@ -21,6 +21,8 @@ $discard,site=amazon.com
 ! news custom
 $discard,site=natepickens.com
 
+! Map
+$discard,site=maps.google.com
 
 $discard,site=investor.pinterestinc.com
 $discard,site=pinterest.at
