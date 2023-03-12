@@ -12,7 +12,7 @@ $discard,site=facebook.com
 $discard,site=twitter.com
 
 ! Wikipedia
-$site=wikiless.org,boost=5
+$site=wikiless.org,boost=1
 $discard,site=wikipedia.org
 
 ! Amazon
